@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f181338a-d575-4284-a873-6a5dc5356f65" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/projectM19.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game_shop/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game_shop/game_shop/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game_shop/game_shop/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game_shop/game_shop/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game_shop/game_shop/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game_shop/game_shop/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game_shop/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game_shop/task1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game_shop/task1/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game_shop/task1/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game_shop/task1/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game_shop/task1/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game_shop/task1/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game_shop/task1/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game_shop/task1/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2q6y6Cu9ohC0IBC8PNWVXzgNAoe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-337b0a7a993a-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.19416.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f181338a-d575-4284-a873-6a5dc5356f65" name="Changes" comment="" />
+      <created>1733997141521</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733997141521</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
