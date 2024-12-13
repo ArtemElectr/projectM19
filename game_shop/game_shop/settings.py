@@ -55,7 +55,7 @@ ROOT_URLCONF = 'game_shop.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['templates/task1'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
